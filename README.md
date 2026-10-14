@@ -3,5 +3,5 @@
 # My CS Profile
 
 ## About Me
--Name: Nawaphat Wittawaspan
--Major: Computer Science 
+- Name: Nawaphat Wittawaspan
+- Major: Computer Science 
